@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>MaKleSoft UG</authors>
     <owners>artemisbeta</owners>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://github.com/padloc/padloc</projectUrl>
+    <projectUrl>https://padloc.app/</projectUrl>
     <packageSourceUrl>https://github.com/artemis-beta/chocolatey-padloc</packageSourceUrl>
     <iconUrl>https://rawcdn.githack.com/padloc/padloc/1d2e9129d65afad72cf7fefc80fd5eb20b5671d9/assets/app-icon.svg</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
